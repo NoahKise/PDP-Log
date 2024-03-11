@@ -7,3 +7,4 @@
 * 11:05: finish "Learn how to work with numbers and strings by implementing the Luhn algorithm"
 * 11:15: begin [Learn lambda functions by building an expense tracker](https://www.freecodecamp.org/learn/scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/step-1) series of python lessons on freecodecamp
 * 11:30: observing whiteboarding
+* 12:00: lunch
