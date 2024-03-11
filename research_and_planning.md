@@ -13,3 +13,5 @@
 * 2:20: begin [Learn python list comprehension by building a case converter program](https://www.freecodecamp.org/learn/scientific-computing-with-python/learn-list-comprehension-by-building-a-case-converter-program/step-1) series of python lessons on freecodecamp
 * 2:45: finish "Learn python list comprehension by building a case converter program"
 * 2:55: begin [Learn regular expressions by building a password generator](https://www.freecodecamp.org/learn/scientific-computing-with-python/learn-regular-expressions-by-building-a-password-generator/step-1) series of python lessons on freecodecamp
+* 4:25: finish "Learn regular expressions by building a password generator"
+* 4:30: whiteboarding practice
