@@ -9,3 +9,5 @@
 * 11:30: observing whiteboarding
 * 12:00: lunch
 * 1:00: back to lambda functions lessons
+* 2:10: finish "Learn lambda functions by building an expense tracker"
+* 2:20: begin [Learn python list comprehension by building a case converter program](https://www.freecodecamp.org/learn/scientific-computing-with-python/learn-list-comprehension-by-building-a-case-converter-program/step-1) series of python lessons on freecodecamp
