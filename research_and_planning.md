@@ -17,4 +17,6 @@
 * 4:30: whiteboarding practice
 
 #### Tuesday 3/12
-* 8:30: begin [Learn algorithm design by building a shortest path algorith](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-algorithm-design-by-building-a-shortest-path-algorithm) series of python lessons on freecodecamp
+* 8:30: begin [Learn algorithm design by building a shortest path algorithm](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-algorithm-design-by-building-a-shortest-path-algorithm) series of python lessons on freecodecamp
+* 9:00: scrum, some discussion with other python peers
+* 9:25: back to shortest parh algorithm
