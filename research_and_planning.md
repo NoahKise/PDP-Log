@@ -20,3 +20,9 @@
 * 8:30: begin [Learn algorithm design by building a shortest path algorithm](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-algorithm-design-by-building-a-shortest-path-algorithm) series of python lessons on freecodecamp
 * 9:00: scrum, some discussion with other python peers
 * 9:25: back to shortest parh algorithm
+* 11:20: finish "Learn algorithm design by building a shortest path algorithm"
+* 11:30: whiteboarding w/ Erik
+* 12:15: lunch
+* 1:00: begin [Learn recursion by solving the tower of Hanoi puzzle](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-recursion-by-solving-the-tower-of-hanoi-puzzle) series of python lessons on freecodecamp
+* 1:30: observing whiteboarding
+* 2:00: back to recursion
