@@ -26,3 +26,5 @@
 * 1:00: begin [Learn recursion by solving the tower of Hanoi puzzle](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-recursion-by-solving-the-tower-of-hanoi-puzzle) series of python lessons on freecodecamp
 * 1:30: observing whiteboarding
 * 2:00: back to recursion
+* 4:30: finish "Learn recursion by solving the tower of Hanoi puzzle" (this one kinda sucked!)
+* 4:35: add capstone idea to spreadsheet
