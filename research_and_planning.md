@@ -28,3 +28,6 @@
 * 2:00: back to recursion
 * 4:30: finish "Learn recursion by solving the tower of Hanoi puzzle" (this one kinda sucked!)
 * 4:35: add capstone idea to spreadsheet
+
+#### Wednesday 3/13
+* 11:30: late start today, girlfriend and I are both sick. Begin [Learn data structures by building the merge sort algorithm](https://www.freecodecamp.org/learn/scientific-computing-with-python/learn-data-structures-by-building-the-merge-sort-algorithm/step-1) series of python lessons on freecodecamp
