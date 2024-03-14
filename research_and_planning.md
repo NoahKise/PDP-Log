@@ -48,3 +48,4 @@
 * 10:45: finish "Learn tree traversal by building a binary search tree"
 * 10:55: begin [Time calculator](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator) python project on freecodecamp
 * 11:30: switching gears, watching godot for iOS compatibility tutorials
+* 12:00: Lunch
