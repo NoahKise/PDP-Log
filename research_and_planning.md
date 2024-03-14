@@ -54,3 +54,4 @@
 * 2:05: Feeling stalled.  Going to work on some project euler problems
 * 2:45: Begin [Data analysis with python](https://www.freecodecamp.org/learn/data-analysis-with-python/) on freecodecamp
 * 3:30: Weekly meeting with Erik to discuss PDP log
+* 3:45: Back to data analysis lessons
