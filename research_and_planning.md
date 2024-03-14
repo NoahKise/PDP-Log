@@ -49,3 +49,8 @@
 * 10:55: begin [Time calculator](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator) python project on freecodecamp
 * 11:30: switching gears, watching godot for iOS compatibility tutorials
 * 12:00: Lunch
+* 1:00: back from lunch. switching gears, looking into accessibility in front-end design.
+* 1:45: reading about [building more accessible react apps](https://www.freecodecamp.org/news/react-accessibility-tools-build-accessible-react-apps/)
+* 2:05: Feeling stalled.  Going to work on some project euler problems
+* 2:45: Begin [Data analysis with python](https://www.freecodecamp.org/learn/data-analysis-with-python/) on freecodecamp
+* 3:30: Weekly meeting with Erik to discuss PDP log
