@@ -33,5 +33,8 @@
 * 11:30: late start today, girlfriend and I are both sick. Begin [Learn data structures by building the merge sort algorithm](https://www.freecodecamp.org/learn/scientific-computing-with-python/learn-data-structures-by-building-the-merge-sort-algorithm/step-1) series of python lessons on freecodecamp
 * 1:15: finish "Learn data structures by building the merge sort algorithm"
 * 1:25: begin [Learn classes and objects by building a sudoku solver](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-classes-and-objects-by-building-a-sudoku-solver) series of python lessons on freecodecamp
+* 1:30: Observing whiteboarding
+* 1:50: back to classes and objects
 * 2:30: lunch
 * 3:15: back to classes and objects
+* 5:00: finish "Learn classes and objects by building a sudoku solver"
