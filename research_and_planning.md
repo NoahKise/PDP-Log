@@ -43,3 +43,5 @@
 * 8:30: Begin [Learn tree traversal by building a binary search tree](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-tree-traversal-by-building-a-binary-search-tree) series of python lessons on freecodecamp
 * 9:00 Scrum
 * 9:15 Back to tree traversal
+* 10:00 Detour to look into swift
+* 10:30 back to tree traversal
