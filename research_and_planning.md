@@ -38,3 +38,8 @@
 * 2:30: lunch
 * 3:15: back to classes and objects
 * 5:00: finish "Learn classes and objects by building a sudoku solver"
+
+#### Thursday 3/14
+* 8:30: Begin [Learn tree traversal by building a binary search tree](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-tree-traversal-by-building-a-binary-search-tree) series of python lessons on freecodecamp
+* 9:00 Scrum
+* 9:15 Back to tree traversal
