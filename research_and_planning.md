@@ -56,3 +56,8 @@
 * 3:30: Weekly meeting with Erik to discuss PDP log
 * 3:45: Back to data analysis lessons
 * 4:30: Whiteboarding practice
+
+#### Monday 3/18
+* 8:30: Continuing data analysis with python freecodecamp lessons
+* 9:00: Scrum
+* 9:25: back to data analysis lessons
