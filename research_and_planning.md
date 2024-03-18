@@ -61,3 +61,5 @@
 * 8:30: Continuing data analysis with python freecodecamp lessons
 * 9:00: Scrum
 * 9:25: back to data analysis lessons
+* 10:45: learning how to use jupyter notebooks
+* 11:35: learning numpy
