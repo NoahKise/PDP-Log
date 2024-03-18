@@ -65,3 +65,5 @@
 * 11:35: learning numpy
 * 12:00: Lunch
 * 1:00: back to numpy
+* 2:30: still straight numpin'
+* 3:00: on to learning pandas
