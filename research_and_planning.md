@@ -76,3 +76,4 @@
 * 10:20: switching gears. I don't think python data visualization is my best option.
 * 10:25: looking into chart.js
 * 11:10: finished [this chart.js tutorial](https://www.chartjs.org/docs/latest/getting-started/usage.html)
+* 11:20: begin [chart.js with react tutorial](https://blog.logrocket.com/using-chart-js-react/)
