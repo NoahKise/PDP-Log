@@ -83,3 +83,4 @@
 * 1:55: capstone planning
 * 2:30: Working on capstone MVP
 * 4:20: pushed a good step one for my capstone idea
+* 4:45: EOD
