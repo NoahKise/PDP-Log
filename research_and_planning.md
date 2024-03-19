@@ -82,3 +82,4 @@
 * 1:00: More Chart.js with react tutorials
 * 1:55: capstone planning
 * 2:30: Working on capstone MVP
+* 4:20: pushed a good step one for my capstone idea
