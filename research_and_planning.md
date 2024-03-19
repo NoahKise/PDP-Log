@@ -77,3 +77,5 @@
 * 10:25: looking into chart.js
 * 11:10: finished [this chart.js tutorial](https://www.chartjs.org/docs/latest/getting-started/usage.html)
 * 11:20: begin [chart.js with react tutorial](https://blog.logrocket.com/using-chart-js-react/)
+* 11:55: finished [chart.js with react tutorial](https://blog.logrocket.com/using-chart-js-react/)
+* 12:00: Lunch
