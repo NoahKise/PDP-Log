@@ -81,3 +81,4 @@
 * 12:00: Lunch
 * 1:00: More Chart.js with react tutorials
 * 1:55: capstone planning
+* 2:30: Working on capstone MVP
