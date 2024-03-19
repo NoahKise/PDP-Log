@@ -67,3 +67,11 @@
 * 1:00: back to numpy
 * 2:30: still straight numpin'
 * 3:00: on to learning pandas
+
+#### Tuesday 3/19
+* 8:30: whiteboarding practice
+* 9:00: scrum
+* 9:15: downloading and learning anaconda
+* 9:30: continuing with pandas but through anaconda.
+* 10:20: switching gears. I don't think python data visualization is my best option.
+* 10:25: looking into plotly
