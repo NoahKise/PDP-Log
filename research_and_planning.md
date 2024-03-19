@@ -79,3 +79,5 @@
 * 11:20: begin [chart.js with react tutorial](https://blog.logrocket.com/using-chart-js-react/)
 * 11:55: finished [chart.js with react tutorial](https://blog.logrocket.com/using-chart-js-react/)
 * 12:00: Lunch
+* 1:00: More Chart.js with react tutorials
+* 1:55: capstone planning
