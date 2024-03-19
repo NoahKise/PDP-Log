@@ -74,4 +74,4 @@
 * 9:15: downloading and learning anaconda
 * 9:30: continuing with pandas but through anaconda.
 * 10:20: switching gears. I don't think python data visualization is my best option.
-* 10:25: looking into plotly
+* 10:25: looking into chart.js
