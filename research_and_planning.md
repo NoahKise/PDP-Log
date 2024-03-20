@@ -89,3 +89,5 @@
 * 8:30: learning about [drag and drop](https://react-dnd.github.io/react-dnd/examples/drag-around/custom-drag-layer) in react
 * 9:00: Scrum
 * 10:40: Pushed 3 new features to capstone practice project
+* 10:45: researching intervals in javascript
+* 11:25: Pushed 1 new feature to capstone practice project
