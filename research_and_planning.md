@@ -91,3 +91,6 @@
 * 10:40: Pushed 3 new features to capstone practice project
 * 10:45: researching intervals in javascript
 * 11:25: Pushed 1 new feature to capstone practice project
+* 11:35: back to the drag and drop struggle
+* 12:30: lunch
+* 1:30: back to drag and drop
