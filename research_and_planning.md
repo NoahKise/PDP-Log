@@ -94,3 +94,5 @@
 * 11:35: back to the drag and drop struggle
 * 12:30: lunch
 * 1:30: back to drag and drop
+* 3:30: pivoting to firebase authentication revisit
+* 4:30: pushed semi-functional firebase implementation to capstone practice project
