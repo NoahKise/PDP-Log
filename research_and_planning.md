@@ -84,3 +84,8 @@
 * 2:30: Working on capstone MVP
 * 4:20: pushed a good step one for my capstone idea
 * 4:45: EOD
+
+#### Wednesday 3/20
+* 8:30: learning about [drag and drop](https://react-dnd.github.io/react-dnd/examples/drag-around/custom-drag-layer) in react
+* 9:00: Scrum
+* 
