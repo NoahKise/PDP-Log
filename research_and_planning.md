@@ -96,3 +96,7 @@
 * 1:30: back to drag and drop
 * 3:30: pivoting to firebase authentication revisit
 * 4:30: pushed semi-functional firebase implementation to capstone practice project
+
+#### Thursday 3/21
+* 8:30: continuing to revisit firebase for user authentication
+* 11:00: pushed functioning firebase code to capstone practice project
