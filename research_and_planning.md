@@ -100,3 +100,10 @@
 #### Thursday 3/21
 * 8:30: continuing to revisit firebase for user authentication
 * 11:00: pushed functioning firebase code to capstone practice project
+* 11:30: Weekly meeting w/ Erik
+* 12:00: Lunch
+* Afternoon: Applying for jobs
+
+#### Friday 3/22
+* 11:45: adding capstone-proposal to capstone practice project
+* 12:30: playing around with react-draggable
