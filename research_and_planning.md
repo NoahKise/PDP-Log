@@ -107,3 +107,6 @@
 #### Friday 3/22
 * 11:45: adding capstone-proposal to capstone practice project
 * 12:30: playing around with react-draggable
+
+#### Saturday 3/23
+* 9:15: exploring discogs API
