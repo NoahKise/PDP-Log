@@ -112,3 +112,5 @@
 * 9:15: exploring discogs API
 * 10:10: pushed discogs artist image integration to capstone practice project
 * 6:20: pushed firebase history storing functionality to capstone practice project
+* 7:45: expanded firebase history functionality and fixed a bug in capstone practice project
+* 9:00: fixed bugs w/ capstone practice project
