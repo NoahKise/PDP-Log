@@ -110,3 +110,5 @@
 
 #### Saturday 3/23
 * 9:15: exploring discogs API
+* 10:10: pushed discogs artist image integration to capstone practice project
+* 6:20: pushed firebase history storing functionality to capstone practice project
