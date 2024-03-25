@@ -114,3 +114,8 @@
 * 6:20: pushed firebase history storing functionality to capstone practice project
 * 7:45: expanded firebase history functionality and fixed a bug in capstone practice project
 * 9:00: fixed bugs w/ capstone practice project
+
+#### Monday 3/25
+* 8:30: reading into react native
+* 9:00: scrum
+* 9:15: back to react native
