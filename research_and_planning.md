@@ -119,3 +119,7 @@
 * 8:30: reading into react native
 * 9:00: scrum
 * 9:15: back to react native
+* 9:50: fighting with my computer to install watchman, and xcode, neither playing nice
+* 10:30: clearing space on my laptop, attempting to download xcode
+* 12:00: switching gears to focus on reformatting scrambled string into image tiles in my capstone practice project
+* 4:45: spent all afternoon going back and forth between capstone and trying to install xcode, unsuccessfully. trying again tomorrow
