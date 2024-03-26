@@ -123,3 +123,12 @@
 * 10:30: clearing space on my laptop, attempting to download xcode
 * 12:00: switching gears to focus on reformatting scrambled string into image tiles in my capstone practice project
 * 4:45: spent all afternoon going back and forth between capstone and trying to install xcode, unsuccessfully. trying again tomorrow
+
+#### Tuesday 3/26
+* 8:30: clearing space on laptop
+* 8:50: watchman succesfully downloaded
+* 8:55: downloading xcode, fingers crossed
+* 10:00: working on capstone practice project, pushed some new functionality
+* 11:00: unzipping xcode....
+* 11:30: xcode unzip failed. retrying in afternoon
+* 2:45: spent hours trying to fix a logic bug, something to do with react useEffect hooks, and i was unsuccessful.
