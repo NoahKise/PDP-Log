@@ -132,3 +132,5 @@
 * 11:00: unzipping xcode....
 * 11:30: xcode unzip failed. retrying in afternoon
 * 2:45: spent hours trying to fix a logic bug, something to do with react useEffect hooks, and i was unsuccessful.
+* 3:30: FIXED IT!! thank god
+* 4:45 end of day. spent the rest of the day chasing down new bugs. fun fun fun. learning lots about how react hooks work in the process
