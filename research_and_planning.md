@@ -143,3 +143,6 @@
 * 11:20: solved problem and pushed solution.
 * 12:00: lunch
 * 1:00: researching css animations
+* 2:15: watching [these tutorials](https://www.youtube.com/watch?v=jgw82b5Y2MU&list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5)
+* 3:30: working on UI design of capstone practice project
+* 4:45 EOD.
