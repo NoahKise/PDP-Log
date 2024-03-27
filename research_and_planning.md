@@ -134,3 +134,12 @@
 * 2:45: spent hours trying to fix a logic bug, something to do with react useEffect hooks, and i was unsuccessful.
 * 3:30: FIXED IT!! thank god
 * 4:45 end of day. spent the rest of the day chasing down new bugs. fun fun fun. learning lots about how react hooks work in the process
+
+#### Wednesday 3/27
+* 8:30: back to attempting to unzip xcode, and also working on bugs in my capstone practice project
+* 9:00: scrum
+* 10:15: pushed bug fixes to capstone practice project
+* 10:25: working on a tricky logic problem for a function for my capstone practice project. would make for a good whiteboarding prompt actually. "given a string, if the string's length is longer than 12, it needs to be split into two lines. however, it can only be split at spaces. write a function to determine the length of the longest line".
+* 11:20: solved problem and pushed solution.
+* 12:00: lunch
+* 1:00: researching css animations
