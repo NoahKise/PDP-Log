@@ -149,3 +149,5 @@
 
 #### Thursday 3/28
 * 8:30: reading [this article](https://www.w3.org/WAI/tips/designing/#provide-sufficient-contrast-between-foreground-and-background) on accessible design
+* 9:00: scrum
+* 9:25: back to accessible design
