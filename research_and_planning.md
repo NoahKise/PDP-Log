@@ -151,3 +151,9 @@
 * 8:30: reading [this article](https://www.w3.org/WAI/tips/designing/#provide-sufficient-contrast-between-foreground-and-background) on accessible design
 * 9:00: scrum
 * 9:25: back to accessible design
+* 10:00: looking into most effective ways to expand capstone data sets. possibly through an API call and data cleaning functions?
+* 11:00: testing practice project
+* 12:00: lunch
+* 1:00: back to testing
+* 1:15: weekly meeting with Erik
+* 1:45: looking into alternatives to making an api call each round
