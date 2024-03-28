@@ -146,3 +146,6 @@
 * 2:15: watching [these tutorials](https://www.youtube.com/watch?v=jgw82b5Y2MU&list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5)
 * 3:30: working on UI design of capstone practice project
 * 4:45 EOD.
+
+#### Thursday 3/28
+* 8:30: reading [this article](https://www.w3.org/WAI/tips/designing/#provide-sufficient-contrast-between-foreground-and-background) on accessible design
