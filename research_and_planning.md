@@ -157,3 +157,8 @@
 * 1:00: back to testing
 * 1:15: weekly meeting with Erik
 * 1:45: looking into alternatives to making an api call each round
+
+#### Monday 4/1
+* 8:30: following along with [this tutorial](https://www.youtube.com/watch?v=IwHt_QpIa8A) on how to implement capacitor into a react web app to create mobile app versions.
+* 9:00: scrum
+* 9:30: back to capacitor w/ react tutorial
