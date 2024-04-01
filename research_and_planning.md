@@ -166,3 +166,5 @@
 * 12:00: lunch
 * 1:00: back to it
 * 3:30: finally got android emulator working. its moving slow as hell and is buggy but my app is now in a format that is at least building and running on android
+* 3:35: working on finding the quirks in android formatting
+* 4:45: EOD
