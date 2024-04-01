@@ -165,3 +165,4 @@
 * 10:30: downloading android studio to get started emulating an android device
 * 12:00: lunch
 * 1:00: back to it
+* 3:30: finally got android emulator working. its moving slow as hell and is buggy but my app is now in a format that is at least building and running on android
