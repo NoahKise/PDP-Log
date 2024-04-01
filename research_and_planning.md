@@ -163,3 +163,5 @@
 * 9:00: scrum
 * 9:30: back to capacitor w/ react tutorial
 * 10:30: downloading android studio to get started emulating an android device
+* 12:00: lunch
+* 1:00: back to it
