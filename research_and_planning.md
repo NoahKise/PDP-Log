@@ -175,3 +175,5 @@
 * 9:20: back to it
 * 12:00: still working on the formatting changes required for mobile, lots of domino effects and testing for bugs.
 * 12:30: lunch
+* 1:30: watching chart.js tutorials
+* 2:15: attempting to fetch user data from firebase and use it to make charts
