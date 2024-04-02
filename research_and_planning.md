@@ -168,3 +168,10 @@
 * 3:30: finally got android emulator working. its moving slow as hell and is buggy but my app is now in a format that is at least building and running on android
 * 3:35: working on finding the quirks in android formatting
 * 4:45: EOD
+
+#### Tuesday 4/2
+* 8:30: working on making tiles bigger and all the formatting changes that entails
+* 9:00: scrum
+* 9:20: back to it
+* 12:00: still working on the formatting changes required for mobile, lots of domino effects and testing for bugs.
+* 12:30: lunch
