@@ -177,3 +177,6 @@
 * 12:30: lunch
 * 1:30: watching chart.js tutorials
 * 2:15: attempting to fetch user data from firebase and use it to make charts
+* 3:30: have a working chart
+* 3:40: moving on to attempting to customize charts
+* 5:50: calling it for the day
