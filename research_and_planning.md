@@ -185,3 +185,6 @@
 * 8:30: learning more about chart.js
 * 9:00: scrum
 * 9:30: working on using time as the x-axis with chart.js
+* 10:15: working out some quirks in styling differences w/ chart.js in android
+* 10:45: going to attempt to make chart horizontally scrollable
+* 12:00: lunch
