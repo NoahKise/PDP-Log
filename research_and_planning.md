@@ -180,3 +180,8 @@
 * 3:30: have a working chart
 * 3:40: moving on to attempting to customize charts
 * 5:50: calling it for the day
+
+#### Wednesday 4/3
+* 8:30: learning more about chart.js
+* 9:00: scrum
+* 9:30: working on using time as the x-axis with chart.js
