@@ -188,3 +188,6 @@
 * 10:15: working out some quirks in styling differences w/ chart.js in android
 * 10:45: going to attempt to make chart horizontally scrollable
 * 12:00: lunch
+* 1:00: back to making chart scrollable and styling history
+* 2:00: working to prevent repeats in rounds
+* 4:45: finally preventing repeats, chart still isnt scrolling but maybe tomorrow
